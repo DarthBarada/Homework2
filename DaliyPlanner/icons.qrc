@@ -1,0 +1,35 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>icons/daily_planner_icon_active.png</file>
+        <file>icons/daily_planner_icon_passive.png</file>
+        <file>icons/done_icon.png</file>
+        <file>icons/help_icon_active.png</file>
+        <file>icons/help_icon_passive.png</file>
+        <file>icons/improvments_icon_active.png</file>
+        <file>icons/improvments_icon_passive.png</file>
+        <file>icons/in_progress_icon.png</file>
+        <file>icons/meetings_active.png</file>
+        <file>icons/overwiev_icon_active.png</file>
+        <file>icons/overwiev_icon_passive.png</file>
+        <file>icons/personal_data_icon_active.png</file>
+        <file>icons/personal_data_icon_passive.png</file>
+        <file>icons/personal_reminders_icon.png</file>
+        <file>icons/projects_icon_passive.png</file>
+        <file>icons/reminders_icon_active.png</file>
+        <file>icons/reminders_icon_passive.png</file>
+        <file>icons/search_bar.png</file>
+        <file>icons/shopping_lists_icon_active.png</file>
+        <file>icons/shopping_lists_icon_passive.png</file>
+        <file>icons/statistics_icon_active.png</file>
+        <file>icons/statistics_icon_passive.png</file>
+        <file>icons/todo_lists_active.png</file>
+        <file>icons/todo_lists_passive.png</file>
+        <file>icons/urgent_icon.png</file>
+        <file>icons/projects_icon_active.png</file>
+        <file>icons/fon_1_icon.png</file>
+        <file>icons/fon_2_icon.png</file>
+        <file>icons/meetings_passive.png</file>
+        <file>icons/loop.png</file>
+        <file>icons/loop_dark.png</file>
+    </qresource>
+</RCC>
